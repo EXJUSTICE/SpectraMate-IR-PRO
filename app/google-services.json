@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "955921727119",
+    "firebase_url": "https://admob-app-id-8502167723.firebaseio.com",
+    "project_id": "admob-app-id-8502167723",
+    "storage_bucket": "admob-app-id-8502167723.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955921727119:android:652f3c09f14f041f",
+        "android_client_info": {
+          "package_name": "com.xu.spectramate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955921727119-ig0vkk5t5c65nrgk525nfkkmf7phqmsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOF3WjcxmVjrG_UkCkmzzBdCvf6iqFLYQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
