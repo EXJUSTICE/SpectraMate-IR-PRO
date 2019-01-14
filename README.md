@@ -3,6 +3,8 @@ App for analyzing chemistry infrared spectra, returning predicted groups based o
 
 Accepted into use at the University of Helsinki, and University College London for first-year undergraduates.
 
+Screenshot:
+
 <p align="center">
-  <img src="https://github.com/EXJUSTICE/SpectraMate-IR-PRO/blob/master/spectramatelogo.JPG">
+  <img width="291" height="177"src="https://github.com/EXJUSTICE/SpectraMate-IR-PRO/blob/master/spectramatelogo.JPG">
 </p>
